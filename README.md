@@ -51,6 +51,13 @@ Task:
 Сделать в Rewrite
  ⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
 
+Подмена body через Charles:
+![Подмена body через Charles](https://github.com/AlexeyVZM/Charles/blob/main/2_rewrite_param_salary(charles).jpg)
+
+Смотрим, как отработался запрос с измененным body в Postman
+![Смотрим, как отработался запрос с измененным body в Postman](https://github.com/AlexeyVZM/Charles/blob/main/2_rewrite_param_salary(postman).jpg)
+
+
 ==================
 
 Ex_3:
