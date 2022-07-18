@@ -23,6 +23,7 @@ response:
 Task:
 Сделать в Rewrite
  ⁃ Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
+ 
 Подмена URL через Charles:
 ![Подмена URL через Charles](https://github.com/AlexeyVZM/Charles/blob/main/1_rewrite_param_name(charles).jpg)
 
