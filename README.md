@@ -77,3 +77,10 @@ response:
 Task:
 Сделатьв Rewrite
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
+ 
+
+Подмена параметров запроса через Charles:
+![Подмена параметров через Charles](https://github.com/AlexeyVZM/Charles/blob/main/3_change_param(charles).jpg)
+
+Смотрим, как отработался запрос с измененным параметрами в Postman
+![Смотрим, как отработался запрос с измененным параметрами в Postman](https://github.com/AlexeyVZM/Charles/blob/main/3_change_param(postman).jpg)
