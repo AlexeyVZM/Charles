@@ -21,7 +21,7 @@ response:
 ]
 
 Task:
-Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
+Сделать в Rewrite
  ⁃ Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
 
 ==================
@@ -42,7 +42,7 @@ response:
                      'u_salary_1_5_year': salary * 4}}
 
 Task:
-Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
+Сделать в Rewrite
  ⁃ Подменить body в Charles так чтобы в запросе ушла salary которую вы вписали в Postman, а в u_salary_1_5_year цифра вернулась меньше оригинальной из запроса.
 
 ==================
@@ -62,5 +62,5 @@ response:
           'daily_sleep': weight * 2.5}
 
 Task:
-Сделать и в Rewrite, и в BreakPoint (можно отключить чтобы не стопило на каждом запросе)
+Сделатьв Rewrite
  ⁃ Подменить параметры запроса в Charles так, чтобы в Postman пришел ответ где другое name, daily_food > weight из запроса, а daily_sleep < weight из запроса.
