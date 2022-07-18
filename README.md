@@ -25,6 +25,8 @@ Task:
  ⁃ Подменить url в Charles чтобы в запросе ушло имя которые вы вписали в Postman, а вернулось то, которое вы подставили в Charles.
 ![Подмена URL через Charles](https://github.com/AlexeyVZM/Charles/blob/main/1_rewrite_param_name(charles).jpg)
 
+![Смотрим, как отработался запрос с измененным URL в Postman](https://github.com/AlexeyVZM/Charles/blob/main/1_rewrite_param_name(postman).jpg)
+
 ==================
 
 Ex_2:
